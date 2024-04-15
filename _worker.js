@@ -11,7 +11,7 @@ let addresses = [
 
 // 设置优选地址api接口
 let addressesapi = [
-	'https://raw.githubusercontent.com/luya01/dyq/main/addressesapi.txt', //可参考内容格式 自行搭建。
+	'https://cf-workers-text2kv-blz.pages.dev/ip.txt?token=WENBEN2024', //可参考内容格式 自行搭建。
 	//'https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressesipv6api.txt', //IPv6优选内容格式 自行搭建。
 ];
 
