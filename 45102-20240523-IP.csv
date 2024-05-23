@@ -1,10 +1,23 @@
-锘縄P鍦板潃,绔彛,TLS,鏁版嵁涓績,鍦板尯,鍩庡競,缃戠粶寤惰繜,涓嬭浇閫熷害
-8.217.159.210,2087,true,HKG,Asia Pacific,Hong Kong,58 ms,18717 kB/s
-8.217.159.210,2083,true,HKG,Asia Pacific,Hong Kong,57 ms,18657 kB/s
-8.210.203.7,2083,true,HKG,Asia Pacific,Hong Kong,62 ms,16945 kB/s
-47.242.202.230,2053,true,HKG,Asia Pacific,Hong Kong,58 ms,13398 kB/s
-47.238.6.102,2053,true,HKG,Asia Pacific,Hong Kong,59 ms,12426 kB/s
-47.242.202.230,2083,true,HKG,Asia Pacific,Hong Kong,58 ms,11532 kB/s
-47.238.6.102,2096,true,HKG,Asia Pacific,Hong Kong,59 ms,11098 kB/s
-47.76.77.103,8443,true,HKG,Asia Pacific,Hong Kong,70 ms,10446 kB/s
-47.243.234.9,2087,true,HKG,Asia Pacific,Hong Kong,58 ms,9340 kB/s
+IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
+8.217.159.210,2087,TRUE,HKG,Asia Pacific,Hong Kong,58 ms,18717 kB/s
+8.217.159.210,2083,TRUE,HKG,Asia Pacific,Hong Kong,57 ms,18657 kB/s
+8.210.203.7,2083,TRUE,HKG,Asia Pacific,Hong Kong,62 ms,16945 kB/s
+47.242.202.230,2053,TRUE,HKG,Asia Pacific,Hong Kong,58 ms,13398 kB/s
+47.238.6.102,2053,TRUE,HKG,Asia Pacific,Hong Kong,59 ms,12426 kB/s
+47.242.202.230,2083,TRUE,HKG,Asia Pacific,Hong Kong,58 ms,11532 kB/s
+47.238.6.102,2096,TRUE,HKG,Asia Pacific,Hong Kong,59 ms,11098 kB/s
+47.76.77.103,8443,TRUE,HKG,Asia Pacific,Hong Kong,70 ms,10446 kB/s
+8.219.173.195,2095,FALSE,SIN,Asia Pacific,Singapore,219,28.54
+8.219.142.191,8880,FALSE,SIN,Asia Pacific,Singapore,210,28.48
+8.222.214.13,2082,FALSE,SIN,Asia Pacific,Singapore,181,28.02
+8.219.202.130,2086,FALSE,SIN,Asia Pacific,Singapore,240,27.37
+8.219.173.239,2086,FALSE,SIN,Asia Pacific,Singapore,239,25.45
+8.222.168.155,8880,FALSE,SIN,Asia Pacific,Singapore,200,25.28
+8.219.202.130,2095,FALSE,SIN,Asia Pacific,Singapore,260,24.76
+8.222.212.219,2086,FALSE,SIN,Asia Pacific,Singapore,200,24.59
+8.222.137.192,8080,FALSE,SIN,Asia Pacific,Singapore,184,24.55
+8.222.219.34,2086,FALSE,SIN,Asia Pacific,Singapore,210,24.27
+8.222.184.198,8880,FALSE,SIN,Asia Pacific,Singapore,194,23.76
+47.245.30.208,2082,FALSE,NRT,Asia Pacific,Tokyo,132,23.36
+8.222.152.71,8080,FALSE,SIN,Asia Pacific,Singapore,181,23
+8.222.144.50,2086,FALSE,SIN,Asia Pacific,Singapore,181,23
