@@ -1,0 +1,30 @@
+IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度(MB/s)
+58.153.173.79,8880,0,FALSE,HKG,Asia Pacific,Hong Kong,70,2.51
+47.238.40.58,2087,0,TRUE,HKG,Asia Pacific,Hong Kong,43,1.79
+8.218.22.210,2086,0,FALSE,HKG,Asia Pacific,Hong Kong,44,1.71
+47.238.40.58,2083,0,TRUE,HKG,Asia Pacific,Hong Kong,42,1.64
+8.218.22.210,8080,0,FALSE,HKG,Asia Pacific,Hong Kong,43,1.4
+8.218.22.210,8880,0,FALSE,HKG,Asia Pacific,Hong Kong,47,1.25
+202.81.231.150,80,0,FALSE,HKG,Asia Pacific,Hong Kong,69,1.16
+154.12.59.101,443,443,TRUE,LAX,North America,Los Angeles,166,1.52
+23.225.116.68,45853,0,TRUE,LAX,North America,Los Angeles,167,1.18
+154.40.35.27,50007,0,TRUE,LAX,North America,Los Angeles,180,1.17
+23.224.33.154,20908,0,TRUE,LAX,North America,Los Angeles,191,1.12
+185.238.250.168,31445,0,TRUE,LAX,North America,Los Angeles,160,1.1
+37.123.197.170,30803,0,TRUE,NRT,Asia Pacific,Tokyo,57,2.23
+132.145.95.117,2052,8443,TRUE,NRT,Asia Pacific,Tokyo,57,2.14
+103.20.199.88,30002,80,FALSE,NRT,Asia Pacific,Tokyo,67,2.05
+131.186.27.181,2096,8443,TRUE,NRT,Asia Pacific,Tokyo,64,1.42
+8.219.153.237,80,0,FALSE,NRT,Asia Pacific,Tokyo,144,1.26
+8.219.66.156,2052,0,FALSE,NRT,Asia Pacific,Tokyo,141,1.21
+47.236.125.62,2083,0,TRUE,NRT,Asia Pacific,Tokyo,140,1.15
+8.219.210.57,8443,0,TRUE,SIN,Asia Pacific,Singapore,77,2.62
+47.237.84.173,80,0,FALSE,SIN,Asia Pacific,Singapore,71,2.05
+47.236.158.158,2083,2083,TRUE,SIN,Asia Pacific,Singapore,76,1.98
+47.236.118.216,2095,0,FALSE,SIN,Asia Pacific,Singapore,77,1.89
+47.236.168.17,2052,0,FALSE,SIN,Asia Pacific,Singapore,75,1.81
+47.236.75.113,8880,0,FALSE,SIN,Asia Pacific,Singapore,73,1.72
+47.237.83.20,2087,0,TRUE,SIN,Asia Pacific,Singapore,70,1.69
+8.219.142.191,2053,0,TRUE,SIN,Asia Pacific,Singapore,72,1.57
+103.167.151.182,443,0,TRUE,SIN,Asia Pacific,Singapore,137,1.52
+47.236.17.193,2095,2095,FALSE,SIN,Asia Pacific,Singapore,75,1.52
