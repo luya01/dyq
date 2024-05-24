@@ -27,7 +27,7 @@ let addressesnotlsapi = [
 
 let DLS = 1;//速度下限
 let addressescsv = [
-	'https://raw.githubusercontent.com/luya01/yxxx/main/AS0-0-HKG.csv?token=GHSAT0AAAAAACSW7G3NP7SW4BUAQRICMRE6ZSQE45A', //iptest测速结果文件。
+	'https://raw.githubusercontent.com/luya01/dyq/main/AS0-0-HKG.csv', //iptest测速结果文件。
 ];
 
 let subconverter = "apiurl.v1.mk"; //在线订阅转换后端，目前使用肥羊的订阅转换功能。支持自建psub 可自行搭建https://github.com/bulianglin/psub
