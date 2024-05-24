@@ -25,7 +25,7 @@ let addressesnotlsapi = [
 	'https://raw.githubusercontent.com/luya01/dyq/main/addressesapi.txt', //可参考内容格式 自行搭建。
 ];
 
-let DLS = 8;//速度下限
+let DLS = 1;//速度下限
 let addressescsv = [
 	'https://raw.githubusercontent.com/luya01/yxxx/main/AS0-0-NRT.csv?token=GHSAT0AAAAAACSW7G3N6PMVWQEFY5BFMUWIZSQDYBQ', //iptest测速结果文件。
 	'https://raw.githubusercontent.com/luya01/yxxx/main/AS0-0-SIN.csv?token=GHSAT0AAAAAACSW7G3MOBRHC56QGB635774ZSQDY4Q',
