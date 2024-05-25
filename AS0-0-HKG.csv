@@ -1,5 +1,4 @@
 ﻿IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度(MB/s)
-132.145.95.117,2052,8443,true,NRT,Asia Pacific,Tokyo,57,2.14
 8.219.210.57,8443,0,true,SIN,Asia Pacific,Singapore,77,2.62
 47.236.158.158,2083,2083,true,SIN,Asia Pacific,Singapore,76,1.98
 47.236.80.110,2053,0,true,SIN,Asia Pacific,Singapore,79,2.76
