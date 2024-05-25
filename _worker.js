@@ -22,7 +22,7 @@ let addressesnotls = [
 
 // 设置优选noTLS地址api接口
 let addressesnotlsapi = [
-	'https://raw.githubusercontent.com/luya01/dyq/main/addressesapi.txt', //可参考内容格式 自行搭建。
+	//'https://raw.githubusercontent.com/luya01/dyq/main/addressesapi.txt', //可参考内容格式 自行搭建。
 ];
 
 let DLS = 1;//速度下限
