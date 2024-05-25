@@ -16,7 +16,7 @@ let addressesapi = [
 
 // 设置优选地址，不带端口号默认80，noTLS订阅生成
 let addressesnotls = [
-	'www.visa.com.sg#官方优选',
+	'www.visa.com.sg#优选80',
 	//'acjp2.cloudflarest.link:2052#jp',
 ];
 
